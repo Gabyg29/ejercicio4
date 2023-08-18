@@ -1,0 +1,5 @@
+Para poder actualizar bien las ramas propias se debe hacer lo siguiente:
+dentro de GitHub Desktop posarse en la rama 'Main' o principal y realizar un Fetch Origin.
+luego cambiar a la rama personal.
+en la barra de herramientas superior ir hasta Branch y pulsar 'Merge into current branch' Fusionar hacia la rama vigente o Ctrl + Shift + M
+esto genera un 'commit fantasma' jaja que actualiza la rama que uno quiera.
